@@ -45,6 +45,7 @@
 
 <h2 align="center">Матрица заинтересованных сторон</h2>
 
+![image](https://github.com/Nune888000/project0/assets/161831626/9426ae00-39ff-400b-90a8-49fd79eec602)
 
 
 
