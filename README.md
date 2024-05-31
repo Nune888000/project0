@@ -52,17 +52,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>  </title>
-    <style>
-        body {
-            font-size: 16px;
-            line-height: 1.5;
-        }
-        .category {
-            margin-left: 2em;
-        }
-    </style>
-</head>
+   </head>
 <body>
     <h2></h2>
     <div class="category">
